@@ -1,0 +1,118 @@
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:+
+Enter 1st number:28
+Enter 2nd number:31
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:-
+Enter 1st number:23
+Enter 2nd number:40
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:*
+Enter 1st number:21
+Enter 2nd number:38
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:/
+Enter 1st number:210
+Enter 2nd number:30
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:%
+Enter 1st number:12
+Enter 2nd number:4
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:a
+Enter 1st number:25
+Enter 2nd number:76
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:x
+Enter 1st number:32
+Enter 2nd number:56
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:m
+Enter 1st number:65
+Enter 2nd number:12
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:s
+Enter a number:9
+		Calculator
+
++, -, *, /, or %	 representing the usual arithmetic operators
+A			 representing the average of two numbers
+X			 representing the maximum of two numbers
+M			 representing the minimum of two numbers
+S			 representing the square of a number
+Q			 indicating the user wants to quit the program
+
+Make a choice:q
+completed
