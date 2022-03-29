@@ -1,0 +1,44 @@
+Operation: addition
+Num 1:28
+Num 2:31
+Answer:59
+
+Operation: subtraction
+Num 1:23
+Num 2:40
+Answer:-17
+
+Operation: multiplication
+Num 1:21
+Num 2:38
+Answer:798
+
+Operation: division
+Num 1:210
+Num 2:30
+Answer:7
+
+Operation: modulo
+Num 1:12
+Num 2:4
+Answer:0
+
+Operation: average
+Num 1:25
+Num 2:76
+Answer:50
+
+Operation: maximum
+Num 1:32
+Num 2:56
+Answer:56
+
+Operation: minimum
+Num 1:65
+Num 2:12
+Answer:12
+
+Operation: square
+Num 1:9
+Answer:81
+
